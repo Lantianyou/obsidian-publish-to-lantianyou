@@ -1,0 +1,20 @@
+{
+  "name": "obsidian-publish-to-lantianyou",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vp build",
+    "build:production": "vp build --mode production",
+    "dev": "vp build --watch",
+    "test": "vp test",
+    "typecheck": "tsc --noEmit",
+    "check": "vp check"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "obsidian": "latest",
+    "typescript": "^7.0.2",
+    "vite-plus": "^1.2.0"
+  }
+}

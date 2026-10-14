@@ -1,0 +1,9 @@
+{
+  "id": "publish-to-lantianyou",
+  "name": "Publish to lantianyou.com",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "把当前 note 按发布流程转换成博客文章，写入 eai-thoughts 仓库并构建部署到 lantianyou.com。",
+  "author": "lantianyou",
+  "isDesktopOnly": true
+}
